@@ -1,6 +1,0 @@
-Printer:
-  1 per Client
-Roku or Google Chrome:
-  1 per Television per Client
-iPad:
-  1 per Client
